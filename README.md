@@ -4,9 +4,24 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
+![Scikit-Learn](https://raw.githubusercontent.com/lzjqsdd/scikit-learn-doc-cn/master/sklearn.PNG)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
+---
+
+## 📋 Table of Contents
+
+- [Overview](#-overview)
+- [Dataset Description](#-Dataset Description)
+- [Objectives](#-Objectives)
+- [Methodology](#-Methodology)
+- [Technologies Used](#-Technologies Used)
+- [How to Run](#-How to Run)
+- [Key Findings (Preview)](#-Key Findings (Preview))
+- [Contact](#-Contact)
+
+
+---
 
 ## 📌 Overview
 This project performs a **Junior-level Exploratory Data Analysis (EDA)** on the famous **Adult Income Dataset** (Census Income). The goal is to understand demographic factors influencing income inequality and to build a simple baseline model to predict whether an individual earns more than $50K/year.
