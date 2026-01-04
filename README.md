@@ -4,7 +4,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
-![Scikit-Learn](https://raw.githubusercontent.com/lzjqsdd/scikit-learn-doc-cn/master/sklearn.PNG)
+![Scikit-Learn](https://img.shields.io/badge/sklearn-0.17stable-brightgreen.svg)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 ---
